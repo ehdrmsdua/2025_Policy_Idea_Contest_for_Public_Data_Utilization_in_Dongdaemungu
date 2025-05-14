@@ -6,7 +6,7 @@
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering <br/>
 ### Members : <br/>
 HOYEOL YANG - Hanyang Univ_Computer Science <br/>
-SEOYEON GANG - Sungkyul Univ_Industrial Management Engineering <br/>
+SEOYEON GANG - Sungshin W's Univ_Mathematics, Statistics and Data Science <br/>
 ### Announcement Document:<br/>
 ![capt](https://github.com/user-attachments/assets/0347fc86-cd38-4504-9d2e-6c20e6606f40)
 
