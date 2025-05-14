@@ -1,5 +1,5 @@
 # Title: 2025 Policy Idea Contest for Public Data Utilization in Dongdaemungu <br/> 
-## Topic: Optimization of Foundry Fab Line Planning <br/>
+## Topic: Optimal Site Selection for Smart Poles <br/>
 ## Period: 2025.02 - 2025.03 <br/>
 
 ### Leader : <br/>
@@ -7,6 +7,7 @@
 ### Members : <br/>
 HOYEOL YANG - Hanyang Univ_Computer Science <br/>
 SEOYEON GANG - Sungshin W's Univ_Mathematics, Statistics and Data Science <br/>
+
 ### Announcement Document:<br/>
 ![capt](https://github.com/user-attachments/assets/0347fc86-cd38-4504-9d2e-6c20e6606f40)
 
